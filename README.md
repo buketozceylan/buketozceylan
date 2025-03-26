@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Wordpress Developer<br>🌱 I’m currently learning Python and Data Analysis<br>💬 Ask me about anything<br>
+🔭 I’m currently working as Wordpress Developer<br>🌱 I’m currently learning React and React Native<br>💬 Ask me about anything<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=buketozceylan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
