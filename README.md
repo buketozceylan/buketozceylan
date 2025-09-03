@@ -3,7 +3,11 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?buketozceylan=ImKunYoung&layout=compact&langs_count=10"/></a>&nbsp
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?buketozceylan=ImKunYoung&count_private=true&show_icons=true"/></a>
+</p>
+
 
 
 ## 🌐 Socials:
