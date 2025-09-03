@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&langs_count=10"/></a>&nbsp
-  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=buketozceylan&count_private=true&show_icons=true"/></a>
 </p>
 
 
