@@ -46,8 +46,6 @@ Here are a few projects where I applied data science techniques to solve specifi
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=buketozceylan&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&theme=radical)
-
 ---
 
 ## 🤝 Let's Connect
