@@ -42,11 +42,12 @@ Here are a few projects where I applied data science techniques to solve specifi
 * **Engineering Focus:** Implemented error handling and automated scheduling to ensure data consistency.
 
 ---
-## 📈 Github Stats
+<h2 align="center">📈 Github Stats</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buketozceylan&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&theme=radical&hide=html)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buketozceylan&show_icons=true&theme=radical" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&theme=radical" height="180" alt="languages" />
+</div>
 ---
 
 ## 🤝 Let's Connect
