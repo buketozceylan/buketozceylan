@@ -45,12 +45,11 @@ Here are a few projects where I applied data science techniques to solve specifi
 
 ## 📈 Github Stats
 
-<p align="left">
-<a href="https://github.com/buketozceylan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=buketozceylan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&langs_count=7&theme=radical"/>
-</a>
-</p>
+## 📈 Github Stats
+
+![Buket's GitHub stats](https://github-readme-stats.vercel.app/api?username=buketozceylan&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&theme=radical)
 
 ---
 
