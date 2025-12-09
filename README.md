@@ -1,6 +1,6 @@
 # Hi there, I'm Buket 👋
 
-### 🔧 Machine Learning Engineer | Data Engineering & Software Architecture
+### Machine Learning Engineer | Data Engineering & Software Architecture
 
 I bridge the gap between **software engineering** and **data science**. With **5 years of professional experience** in web development, I now apply engineering rigor to build scalable machine learning models and robust data pipelines.
 
@@ -8,7 +8,7 @@ My focus is not just on training models, but on deploying them—creating end-to
 
 ---
 
-## 🛠 Tech Stack & Arsenal
+## Tech Stack & Arsenal
 
 | Domain | Technologies & Libraries |
 | :--- | :--- |
@@ -42,15 +42,11 @@ Here are a few projects where I applied data science techniques to solve specifi
 * **Engineering Focus:** Implemented error handling and automated scheduling to ensure data consistency.
 
 ---
-
 ## 📈 Github Stats
 
-## 📈 Github Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buketozceylan&theme=radical)
 
-![Buket's GitHub stats](https://github-readme-stats.vercel.app/api?username=buketozceylan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketozceylan&layout=compact&theme=radical&hide=html)
 ---
 
 ## 🤝 Let's Connect
