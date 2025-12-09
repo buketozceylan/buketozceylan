@@ -2,7 +2,7 @@
 
 ### 🔧 Machine Learning Engineer | Data Engineering & Software Architecture
 
-I bridge the gap between **software engineering** and **data science**. With **5 years of professional experience** in web development and software architecture, I now apply engineering rigor to build scalable machine learning models and robust data pipelines.
+I bridge the gap between **software engineering** and **data science**. With **5 years of professional experience** in web development, I now apply engineering rigor to build scalable machine learning models and robust data pipelines.
 
 My focus is not just on training models, but on deploying them—creating end-to-end solutions that drive decision-making.
 
@@ -13,8 +13,8 @@ My focus is not just on training models, but on deploying them—creating end-to
 | Domain | Technologies & Libraries |
 | :--- | :--- |
 | **Machine Learning** | Python, Scikit-learn, TensorFlow, Keras, Pandas, NumPy |
-| **Data Engineering** | SQL (PostgreSQL, MySQL), ETL Pipelines, Web Scraping (BeautifulSoup/Selenium) |
-| **Deployment & MLOps**| Streamlit, Flask, Docker, Git/GitHub Actions |
+| **Data Engineering** | SQL (PostgreSQL, MySQL), Web Scraping (BeautifulSoup/Selenium) |
+| **Deployment & MLOps**| Streamlit, Docker, Git/GitHub Actions |
 | **Development** | C#, JavaScript, Software Design Patterns, Clean Code Principles |
 
 ---
