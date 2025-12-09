@@ -42,7 +42,7 @@ Here are a few projects where I applied data science techniques to solve specifi
 * **Engineering Focus:** Implemented error handling and automated scheduling to ensure data consistency.
 
 ---
-## 📊 İstatistikler
+## 📊
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=buketozceylan&theme=radical&hide_border=true)
 
