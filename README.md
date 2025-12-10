@@ -1,6 +1,6 @@
 # Hi there, I'm Buket 👋
 
-### Machine Learning Engineer | Data Engineering & Software Architecture
+### Machine Learning Engineer | 
 
 I bridge the gap between **software engineering** and **data science**. With **5 years of professional experience** in web development, I now apply engineering rigor to build scalable machine learning models and robust data pipelines.
 
