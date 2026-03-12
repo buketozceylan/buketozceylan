@@ -4,8 +4,6 @@
 
 I build scalable web and mobile solutions with a focus on user experience and data-driven architecture. With a background in **Information Systems Engineering**, I combine modern frontend frameworks like **React** with robust backend systems to create meaningful digital products.
 
-Currently developing **Nodus** under the **dankiapp** brand.
-
 ---
 
 ## 🛠 Tech Stack & Arsenal
