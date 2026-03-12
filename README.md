@@ -54,8 +54,5 @@ Currently developing **Nodus** under the **dankiapp** brand.
 I'm always excited to discuss **Full Stack Development**, **Wellbeing Tech**, and **Product Design**.
 
 * **LinkedIn:** [in/buketozceylan](https://www.linkedin.com/in/buketozceylan/)
-* **Brand:** [dankify.digital](https://dankify.digital)
-* **Email:** [iletisim bilgilerini buraya ekleyebilirsin]
+* **Email:** bktozceylan@gmail.com
 
----
-*"Turning complex data into seamless user experiences."*
